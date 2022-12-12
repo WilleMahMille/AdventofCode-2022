@@ -1,4 +1,4 @@
-/*
+
 #include <iostream>
 #include <fstream>
 #include <string>
@@ -93,7 +93,6 @@ int monkeyTE(int item, int monkey) {
 	}
 }
 */
-/*
 
 int main() {
 	// i dont care anymore :)
@@ -123,4 +122,3 @@ int main() {
 
 }
 
-*/
