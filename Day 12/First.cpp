@@ -1,4 +1,4 @@
-/*
+
 
 #include <iostream>
 #include <fstream>
@@ -93,5 +93,5 @@ int main() {
 	std::cout << stepmap[xstart][ystart] << "\n";
 
 }
-*/
+
 
